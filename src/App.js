@@ -31,6 +31,7 @@ function App() {
   return (
     <div className="App">
       <Robot position={position} direction={direction} />
+      <h1>Sujay</h1>
       
     </div>
   );
